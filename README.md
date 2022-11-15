@@ -2,6 +2,14 @@
 
 ## Olá! Eu sou o Luciano N Freire 🖐️
 
+🌱 Estou desenvolvendo projetos de Data Science.
+
+👨‍💻 Atualmente estou aperfeiçoando minhas técnicas de Machine Learning.
+
+💻 Pode ver mais sobre mim no no meu portfólio https://github.com/lucianonfreire/portifolio
+
+🎻 Curiosidades sobre mim : Sou professor de violino e viola, empreendedor em e-commerce
+
 [![Blog](https://img.shields.io/website?label=violinolemarte.com&style=for-the-badge&url=https://violinolemarte.com/)](https://violinolemarte.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/lemarte)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/violinolemarte)
@@ -22,11 +30,7 @@
   <img align="center" alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   
-
-  
-
 </div><br/>
-
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
