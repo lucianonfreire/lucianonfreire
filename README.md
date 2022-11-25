@@ -4,7 +4,7 @@
 🌱 Desenvolvedor de projetos em Data Science.</br>
 👨‍💻 Atualmente estou desenvolvendo 2 projetos de Machine Learning.</br>
 💻 Você pode ver mais sobre esses projetos no repositório. Link abaixo</br>
-🛠 https://github.com/lucianonfreire/projetos
+🛠 https://github.com/lucianonfreire/projetos </br>
 🎻 Curiosidades sobre mim : Sou professor de violino e viola, empreendedor em e-commerce</br>
 
 [![Site](https://img.shields.io/website?label=violinolemarte.com&style=for-the-badge&url=https://violinolemarte.com/)](https://violinolemarte.com)
