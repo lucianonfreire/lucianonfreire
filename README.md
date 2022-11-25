@@ -1,11 +1,11 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucianonfreire/d807da543132390313db7dddd1394563/raw/073b6ad4c03977bfe7cd4c44a5ba2f935cee9a69/gitcard.svg"/>
 
 ## Olá! Eu sou o Luciano N Freire 🖐️
-🌱 Desenvolvedor de projetos em Data Science.</br>
-👨‍💻 Atualmente estou desenvolvendo 2 projetos de Machine Learning.</br>
+🌱 Desenvolvedor de projetos em Data Science</br>
+👨‍💻 Atualmente estou desenvolvendo 2 projetos de Machine Learning</br>
 💻 Você pode ver mais sobre esses projetos no repositório. Link abaixo</br>
 🛠 https://github.com/lucianonfreire/projetos </br>
-🎻 Curiosidades sobre mim : Sou professor de violino e viola, empreendedor em e-commerce</br>
+🎻 Curiosidades sobre mim : Sou professor de violino e viola, empreendedor digital, pratico gestão de tráfego pra e-commerce e social media</br>
 
 [![Site](https://img.shields.io/website?label=violinolemarte.com&style=for-the-badge&url=https://violinolemarte.com/)](https://violinolemarte.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/lemarte)
