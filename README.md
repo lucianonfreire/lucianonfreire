@@ -2,7 +2,7 @@
 
 ## Olá! Eu sou o Luciano N Freire 🖐️
 
-🌱 Sou Desenvolvedor de projetos em Data Science.
+🌱 Desenvolvedor de projetos em Data Science.
 
 👨‍💻 Atualmente estou aperfeiçoando minhas técnicas de Machine Learning.
 
