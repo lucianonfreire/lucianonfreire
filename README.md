@@ -2,11 +2,11 @@
 
 ## Olá! Eu sou o Luciano N Freire 🖐️
 
-🌱 Estou desenvolvendo projetos de Data Science.
+🌱 Sou Desenvolvedor de projetos em Data Science.
 
 👨‍💻 Atualmente estou aperfeiçoando minhas técnicas de Machine Learning.
 
-💻 Pode ver mais sobre mim no no meu portfólio https://github.com/lucianonfreire/portifolio
+💻 Pode ver mais sobre meus projetos no repositório. 
 
 🎻 Curiosidades sobre mim : Sou professor de violino e viola, empreendedor em e-commerce
 
