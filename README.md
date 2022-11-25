@@ -2,8 +2,9 @@
 
 ## Olá! Eu sou o Luciano N Freire 🖐️
 🌱 Desenvolvedor de projetos em Data Science.</br>
-👨‍💻 Atualmente estou aperfeiçoando minhas técnicas de Machine Learning.</br>
-💻 Pode ver mais sobre meus projetos no repositório.</br> 
+👨‍💻 Atualmente estou desenvolvendo 2 projetos de Machine Learning.</br>
+💻 Você pode ver mais sobre esses projetos no repositório. Link abaixo</br>
+🛠 https://github.com/lucianonfreire/projetos
 🎻 Curiosidades sobre mim : Sou professor de violino e viola, empreendedor em e-commerce</br>
 
 [![Site](https://img.shields.io/website?label=violinolemarte.com&style=for-the-badge&url=https://violinolemarte.com/)](https://violinolemarte.com)
